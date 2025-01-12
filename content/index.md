@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Meet the GSETs
 ---
 
 This is a blank Quartz installation.
