@@ -1,6 +1,4 @@
 ---
 title: Meet the GSETs
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Notes for the GSSE
