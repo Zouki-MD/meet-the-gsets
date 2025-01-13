@@ -1,17 +1,13 @@
----
-title: Meet the GSETs
----
-
 ```folder-overview
 id: e32ffa68-ca15-4096-abe8-790b10b0ce27
 folderPath: ""
 title: "{{folderName}} overview"
 showTitle: false
 depth: 3
+style: list
 includeTypes:
   - folder
   - markdown
-style: list
 disableFileTag: false
 sortBy: name
 sortByAsc: true
@@ -23,8 +19,7 @@ disableCollapseIcon: true
 ```
 
 
-
-
+---
 
 
 
