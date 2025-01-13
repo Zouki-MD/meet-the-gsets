@@ -1,0 +1,49 @@
+####    Anatomy of the Inguinal Region 
+  - Inguinal Canal ^c2b2bb
+	  - The inguinal canal is<span style="color:#00b050"> 4 cm long</span> and is from the internal (deep) inguinal ring to the external (superficial) inguinal ring
+	  - Borders
+		  - Anterior wall of the inguinal canal is the external oblique aponeurosis
+		  - The ‘back’ of the inguinal canal is the transversalis fascia and transversus abdominis muscle
+		  - The inferior wall of the canal is formed by the lacunar ligament and inguinal ligament
+		  - In men, the inguinal canal contains the spermatic cord, in women it contains the round ligament
+	  - Contents
+		  - Spermatic Cord
+			  - **Rule of 3's** (<span style="font-weight:bold; color:#ff0000">3 arteries</span>,<span style="color:#00b0f0"> 3 veins</span>, <span style="color:#7030a0">3 nerves</span>, <span style="color:#ffc000">3 other</span> and <span style="color:#00b050">3 coverings</span>)
+				  - <span style="color:#ff0000">Testicular artery</span> (from the aorta),
+				  - <span style="color:#ff0000">Cremasteric artery</span> (from the inferior epigastric)
+				  - <span style="color:#ff0000">Artery to the vas deferens</span> (from the inferior vesicle)
+				  - <span style="color:#00b0f0">Testicular vein </span>or pampiniform plexus (to the IVC/Left renal vein),
+				  - <span style="color:#00b0f0">Cremasteric vein</span> (to the inferior epigastric)
+				  - <span style="color:#00b0f0">Ductus deferens vein</span>
+				  - <span style="color:#7030a0">Genial branch of genitofemoral nerve</span> (L2)
+					  - Supplies motor to the cremaster
+					  - Supplies sensation to the fascia, tunica, round ligament and scrotal/labia majora skin
+				  - <span style="color:#7030a0">Sympathetic nerves</span> (visceral pain T9/10)
+				  - <span style="color:#7030a0">Ilioinguinal nerve</span>
+				  - <span style="color:#ffc000">Vas</span> (<span style="color:#ffc000">ductus</span>)<span style="color:#ffc000"> deferens</span>, 
+				  - <span style="color:#ffc000">Processes Vaginalis</span>
+				  - <span style="color:#ffc000">Lymphatics</span>
+				  - <span style="color:#00b050">External Spermatic fascia</span>
+				  - <span style="color:#00b050">Cremasteric fascia</span>
+				  - <span style="color:#00b050">Internal spermatic fascia</span>
+				 ![[Spermatic Cord (IA).png | 350]]
+		- Round Ligament
+		- Ilioinguinal nerve
+	- Ligaments
+		- Inguinal Ligament
+			- Extends from the ASIS to the pubic tubercle and continues backwards as the <span style="color:#00b050">lacunar ligament </span>(of Gimbernat) into the<span style="color:#00b050"> pectineal line</span> (which forms the medial border of the femoral ring)
+			- From the pubic tubercle, fibres may be traced upwards and medially, behind the spermatic cord, to interdigitate in the linea alba with those of the opposite side (reflected part of the ligament)
+			- Near the apex of the superficial inguinal ring are fibres running at right angles to those of the aponeurosis, the intercrural fibres, that blend and prevent the crura from separating
+			- The fascia lata of the thigh inserts into the superficial aspect of the inguinal ligament		
+			- ![[Inguinal Ligaments.png | 350]]
+		- Lacunar Ligament
+			- 
+		- Pectineal Ligament
+  - Femoral Triangle ^269914
+	  - Borders
+	  - Contents
+  - Cribriform fascia
+	- Fascia which overlies the Fossa Ovalis (saphenous ring)
+		- The *Fossa Ovalis* is a 3cm opening, which is about 4cm inferior and lateral to the pubic tubercle
+		- The Great Saphenous Vein pierces the fascia to join the Femoral Vein
+		- ![[Cribriform Fascia.png | 500]]
