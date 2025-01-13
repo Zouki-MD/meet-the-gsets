@@ -1,7 +1,35 @@
 ---
 title: Meet the GSETs
 ---
-Notes for the GSSE
+
+```folder-overview
+id: e32ffa68-ca15-4096-abe8-790b10b0ce27
+folderPath: ""
+title: "{{folderName}} overview"
+showTitle: false
+depth: 3
+includeTypes:
+  - folder
+  - markdown
+style: list
+disableFileTag: false
+sortBy: name
+sortByAsc: true
+showEmptyFolders: false
+onlyIncludeSubfolders: false
+storeFolderCondition: true
+showFolderNotes: false
+disableCollapseIcon: true
+```
+
+
+
+
+
+
+
+
+
 
 
 ![[GSET Terminology.png]]
