@@ -1,0 +1,13 @@
+## Jehova's Witness
+ - Initiatives
+	 - Transfuse something not quite blood
+	    - Autologous transfusion (eg. pre-banked blood) - though usually the JWs do not go for this option
+	    - Albumin
+	- Avoidance of blood loss
+	    - Advanced haemostasis measures intraoperatively, eg. topical haemostatic agents
+	    - Use of low volume blood tubes
+	    - Rationalisation of blood tests
+	- Support of effected (or supra-normal) erythropoiesis
+	    - Good nutrition (B12/Folate, Iron)
+	    - Iron infusion
+	    - Erythropoietin

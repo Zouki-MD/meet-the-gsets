@@ -1,0 +1,706 @@
+### WHO Surgical Safety Checklist ^[WHO Guidelines for Safe Surgery 2009: Safe Surgery Saves Lives. Geneva: World Health Organization; 2009. PMID: 23762968. https://pubmed.ncbi.nlm.nih.gov/23762968/] %% fold %%
+ - [0] The WHO surgical safety checklist is a perioperative checklist which occurs before and after an operation to reduce patient adverse events and improve communication around surgery. It has three main components (Sign in, Time Out and Sign Out). 
+ - Sign In %% fold %% 
+	 - Occurs prior to anaesthetic being administered (typically in the anaesthetic bay with the anaesthetist, scrub nurse and surgeon)
+	 1. Confirm patient identity (name, URN, DOB and consent) and surgery 
+	 2. Confirm site of procedure is marked
+	 3. Assess allergies
+	 4. Assess alerts
+	 5. VTE prophylaxis plan
+	 6. Abx prophylaxis plan
+	 7. Risk of >500mls blood loss (or >7ml/kg in children)
+	 8. Prosthesis available and checked
+	 9. Essential imaging checked (patient identity, indication and available in theatre)
+	 10. Anaesthetic safety checklist completed
+	 11. Difficult airway equipment available
+	 12. Stop before you block(())
+ - Time Out %% fold %%
+	 - Occurs prior to the surgery commencing (typically in the operating theatre with the anaesthetist, scrub nurse and surgeon)
+	 13. Confirm all members of the team know each other
+	 14. Confirm the patient identity, procedure and site
+	 15. Confirm antibiotics have been administered
+	 16. Pressure injury prophylaxis
+	 17. Anticipated critical events (surgical, anaesthetic and nursing)
+ - Sign Out %% fold %%
+	 - Occurs before the patient leaves the operating room
+	 18. Confirm the procedure name and the surgical count is correct
+	 19. Confirm the specimen is labelled and request forms completed
+	 20. Report any equipment issues
+	 21. Confirm post-operative plan (pressure injury prevention)
+
+
+   ![[WHO Checklist.png | 600]]
+
+### ASA Score %% fold %%
+  - The American Society of Anaesthesiology (ASA) score is a subjective, physical status classification from I - VI of a patient's overall pre-operative health which correlates to the risk of post-operative complications. On its own, the ASA classification of physical status is not a predictor of operative risk (which is defined by the patients pre-operative health, the physical derangement of the procedure skill skill of the surgeon and anaesthetist and their perioperative support) %% fold %% 
+	 - Elective surgery (ASA score I = 0.41/1,000; scores IV and V = 9.6/1,000) 
+	 - Emergency surgeries (ASA I = 1/1,000 increases to 26.5/1,000 in classes IV and V ^[Tiret L, Hatton F, Desmonts JM, Vourc’h G. Prediction of outcome of anaesthesia in patients over 40 years: A multifactorial risk index. Stat Med. 1988;7:947–54. https://pubmed.ncbi.nlm.nih.gov/3175394/]
+	 - An 'E' is added after the score to indicate an emergency operation
+	 - Electively, all <span style="color:#00b050">ASA 3+ patients</span> should have a consultant pre-anaesthetic review to quantify risk factors, optimize medical concerns, refer to specialists if required and plan for ICU/HDU needs
+- **Classification** and examples %% fold %% 
+	 -  ASA I - Healthy patient %% fold %%
+		 - Non-smoker, minimal or no alcohol
+	 - ASA II - Mild, controlled, systemic disease %% fold %%
+		 - Smokers, social EtOH, pregnancy (normal pregnancy included due to physiological changes), BMI 30 - 40, mild respiratory disease, controlled T2DM or HTN
+	- ASA III - Severe systemic disease %% fold %%
+		- Poorly controlled T2DM or HTN, COPD, BMI >40, hepatitis, alcohol abuse, pacemaker, moderate reduction in EF, ESRF requiring dialysis, history (>3 months) of MI, CVA, TIA or CAD/stenting
+	 - ASA IV - Severe systemic that is a constant threat to life
+		 - Recent (<3 months), of MI, CVA, TIA or CAD/stenting; severe reduction in EF, sepsis, DIC, ARD, ESRD
+	 - ASA V - Moribund, not expected to survive without an operation
+		 - Ruptured aneurysms, massive trauma, intracranial bleed with mass effect, ischemic bowel (in the setting of MODS)
+- Limitations of the ASA
+	- Does not account for age or malignancy
+	- Is subjective
+	- Nil moderate classification (it is mild or severe)
+	- Does not distinguish between operation types
+	
+	   
+	![[ASA Score.png]]  
+	
+
+
+### VTE 
+ - DVT %% fold %% 
+	 - Risk
+	 - Classification
+	 - Treatment
+		 - 3 months on a DOAC
+			 - Unprovoked distal DVT
+			 - Provoked (uncomplicated) proximal DVT
+			 - Provoked (uncomplicated) PE
+			 - Catheter provoked upper limb DVT
+		- 6 months on a DOAC
+			- Provoked DVT/PE due to active cancer
+			- 
+		 - Uncomplicated proximal DVT or PE caused by major surgery or trauma that is no longer present requires anticoagulation for 3 months
+ - PE %% fold %%
+### Antiplatelets
+
+^5f9df9
+
+ - Aspirin  %% fold %% 
+	 - Mechanism of Action
+	 - Pharmacokinectics
+	 - Indication
+	 - Side-effects
+	 - Contraindication
+	 - Reversal
+- Clopidogrel  %% fold %%  ^3350f8
+	 - Mechanism of Action
+	 - Pharmacokinectics
+	 - Indication
+	 - Side-effects
+	 - Contraindication
+	 - Reversal
+### Anticoagulants
+- Management of peri-operative Anticoagulants;
+	- [I] RISK (Risk of bleeding, Indication for anticoagulation, Surgical urgency and Korrectability) %% fold %% 
+		- [0] My approach to perioperative management of anticoagulants is dependent on bleeding and clotting risks, considering the indication for anticoagulation, the urgency of surgery and the patients current status. I would begin with a focused review of the patients medical history and investigations, particularly their current haemoglobin and coagulation tests. 
+		- [ ] In a situation of high risk bleeding I would;
+			- [ ] With-hold the patients anticoagulation,
+			- [ ] Assess if delaying the operation is possible until the anticoagulant has cleared OR consider reversal of their current anticoagulation and seek specialist help and refer to a haematologist. 
+ - <span style="color:#00b0f0">Warfarin</span>  %% fold %% 
+	 - Mechanism of Action %% fold %%
+		 - [[Haematology#^153f15|Vitamin K Antagonist]] which competitively inhibits the enzymatic activation (reduction) of vitamin K, therefore depleting functional Vitamin K (which is a cofactor of gamma carboxylation of Vit K dependent co-factors and Protein C/S)
+		 - Factors II, VII, IX and X are still produced but can’t bind Ca2+ in the absence of functional Vit K which prevents their action in enzyme-substrate complexes)
+		 ![[Vitamin K MOA.png | 600]]
+	 - Pharmacokinetics %% fold %%
+		 - Lipid-soluble drug with a long half-life
+		- Dosage: Commence on 5mg and titrate to INR target
+			- A. Fib target 2-3
+			- PE/DVT target 2-3
+			- Antiphospholipid Syndrome target 2-3
+			- Post-MI target 2.5 - 3.5
+			- Mecanical/Bioprosthetic valve target 2.5 - 3.5
+		- Half-Life: 36-42 hours with peak effect after 72 - 96 hours
+		- Metabolism: Hepatic
+		- Elimination: Eliminated in the metabolised form (92% via urine)
+		- Interaction with drugs metabolised by <span style="color:#00b050">CYP2C9</span>
+			 - A2RB (Irbesartan, Valsartan)
+			 - Anticonvulsants (Phenytoin)
+			 - Antimicrobials (Metronidazole, Sulphamethoxazole)
+			 - NSAIDs (Celecoxib, Diclofenac, Ibuprofen, Indomethacin, Naproxen)
+			 - Psychotropic drugs (Amitriptyline, Fluoxetine)
+	-  Monitoring/Investigations %% fold %%
+		- PT/INR
+	 - Indication
+		 - Prophylaxis and treatment of thromboembolic disorders and embolic complications arising from AF or cardiac transplant
+		 - Valvular AF
+		 - Mechanical prosthetic cardiac valves
+	 - Side-effects
+		 - Major Bleeding
+		 - Transient Hypercoagulability
+		 - Skin Necrosis
+		 - Teratogenic
+	 - Contraindication
+		 - CNS haemorrhage
+		 - Haemorrhagic tendencies
+		 - Spinal puncture
+		 - Pregnancy
+	- Bridging %% fold %%
+		- Cease warfarin 5 days prior (skip 5 doses) 
+		- Commence heparin bridging when the INR is below the therapeutic range
+			- Cease LMWH 24 hours prior to surgery and only administer half the therapeutic dose
+			- Cease UFH 6 hours prior to surgery
+		- Restart Warfarin 12-24 hours after surgery if the bleeding risk is low and continue until the INR is therapeutic for 2 doses
+			- Commence BD LMWH 24 hrs post minor surgery, 48-72hrs post if high bleeding risk (or low dose)
+			- Commence UFH 6-12 hours post-operatively with no bolus
+		- ![[Pre-operative warfarin bridging.png]]
+		- ![[Pre-operative warfarin no bridging.png]]
+	 - Reversal
+		 - Indications
+			 - If NO bleeding and INR <10 omit warfarin and monitor. Low dose Vitamin K only indicated in high risk bleeding situation.
+			 - If NO bleeding and INR >10 omit warfarin and give lose dose Vitamin K (can increase to 2-5mg PO)
+			 - If MINOR bleeding with any INR, omit warfarin and give low dose Vitamin K
+			 - If SIGNIFICANT bleeding, omit warfarin and seek advice. Administer high dose Vitamin K and either Prothrombinex OR FFP  
+		 - Vitamin K (slow onset)
+			 - Low dose: 0.5 - 1mg IV or 1-2 mg PO
+			 - High dose: 5- 10mg IV
+		 - Prothrombinex
+			 - Contains factors II, IX and X (little to no factor VII), with the peak effect within 5 minutes of administration
+			 - 35 - 50 units/kg IV
+		 - Fresh Frozen Plasma (fast onset)
+			 - 150 - 300 mls (up to 15 mL/kg)
+		
+		![[Warfarin Reversal QLD HEALTH.png]] ^2e2975
+ - <span style="color:#00b0f0">Unfractionated Heparin (UFH)</span> <span style="color:#ffc000">NEEDS WORK</span> %% fold %%
+	 - Mechanism of Action
+	 - Pharmacokinetics %% fold %%
+		 - Dosage
+		 - Half-Life: 30 - 60 minutes
+		 - Metabolism: 
+		 - Elimination
+	 - Indication %% fold %%
+		 - Bridging for DOAC or ACS %% fold %%
+			 - Target aPTT 65 - 90 seconds %% fold %%
+				 - Repeat aPTT for 4-6 hours until 2 consecutive readings within the range, then once daily
+		- Treatment of PE or DVT %% fold %%
+			- Target aPTT of 65- 100 %% fold %%
+				- Repeat aPTT for 4-6 hours until 2 consecutive readings within the range, then once daily
+	 - Side-effects %% fold %%
+		 - HIITs
+	 - Contraindication
+	 - Reversal %% fold %%
+		 - [[Perioperative#^6fd758 | Protamine Sulphate]] 1mg per 100U 
+		  ![[Heparin Reversal.png]]
+		- Cease Infusion
+			- APTT > 200 seconds, UFH infusion should be with-held for 90 minutes and the patients weight, infusion pump, collection technique and calculations reassessed. After 90 minutes, the infusion should be restarted at a rate of -3 units/kg/hr.
+ - <span style="color:#00b0f0">Low Molecular Weight Heparin (LMWH)</span> <span style="color:#ffc000">NEEDS WORK</span> %% fold %%
+	 - Mechanism of Action %% fold %%
+		 - Potentiates the effects of antithrombin 3
+		 - ![[Heparin MOA.png]]
+	 - Pharmacokinetics
+		 - Dosage;
+			 - VTE Prophylaxis dose is 40mg nocte
+			 - Treatment dose is 1mg/kg BD or 1.5mg/kg OD
+		 - Half-life: 3-9 hours
+		 - Metabolism:
+		 - Elimination:
+		 - Indication
+		 - Side Effects
+		 - Contraindication %% fold %%
+			 - eGFR <30 ml/min
+	 - Reversal
+		 - Dialysis (20% effective)
+		 - Protamine Sulphate (60% effective)
+ - <span style="color:#00b0f0">Rivaroxaban</span> / <span style="color:#00b0f0">Apixaban</span> <span style="color:#ffc000">NEEDS MONITORING</span> %% fold %%
+	 - Mechanism of Action %% fold %%
+		 - Direct Factor Xa inhibitor which prevents cleaving of prothrombin to thrombin
+	 - Pharmacokinetics %% fold %%
+		 - Dosage
+			 - Rivaroxaban treatment dose is 15mg BD for 3 weeks then 20mg OD with food
+				 - VTE prophylaxis dose is 10mg OD
+			 - Apixaban treatment dose is 10mg BD for 1 week then 5mg BD
+				 - VTE prophylaxis dose is 2.5mg BD
+		 - Half-Life: Both around 9-12 hours
+		 - Metabolism: Hepatic metabolism via CYP3A4 
+			 - Rivaroxaban has CYP3A4 and CYP3A5 metabolism
+		 - Elimination:
+			 - Rivaroxaban has 66% renal clearance and 28% intestinal
+			 - Apixaban has 25% renal clearance and 70% intestinal
+	- Monitoring/Investigations %% fold %%
+		- Nil regular monitoring required
+		- PT may be useful in overdose situations, but it cannot be used to completely exclude the presence of a factor Xa inhibitor. Usually, a normal PT (12 to 15 seconds) excludes presence of therapeutic factor Xa inhibitor levels. However, the PT can also be influenced by liver dysfunction, concomitant use of other anticoagulants or by vitamin K deficiency
+	 - <span style="color:#ffc000">Indication</span>
+	 - <span style="color:#ffc000">Side Effects</span>
+	 - Contraindication
+		 - eGFR
+			 - Rivaroxaban is contraindicated if eGFR < 30 mL/min
+			 - Apixaban is contraindicated if eGFR <25 mL/min
+		 - Valvular AFib
+		 - Mechanical prosthetic valve
+		 - Moderate to severe mitral stenosis
+		 - Antiphospholipid Syndrome
+		 - Cirrhotic liver disease
+		 - ?Pregnancy
+	 - Bridging
+		 - Cease 24h prior to low bleeding risk surgery
+		 - Cease 48-72h prior to high bleeding risk surgery
+		 - Cease up to 72h prior to surgery if renal impairment (due to minimal renal clearance of drug)
+		 - In the case of a missed dose, only redose is greater than 6 hours to the next dose
+	 - Reversal
+		 - No specific reversal agents
+		 - Consider Andexanet alpha which sequesters Rivaroxaban/Apixaban
+			 - Requires an anti-Xa assay
+		 - Consider activated charcoal if ingested within 2 hours
+		 - Manage with prothrombin complex concentrate (factors II, IX and X) at 25 to 50 IU/kg
+		 - Fresh Frozen Plasma
+		 - Consider tranexamic acid
+- <span style="color:#00b0f0">Dabigatran</span> <span style="color:#ffc000">NEEDS WORK</span> %% fold %%
+	 - Mechanism of Action
+	 - Pharmacokinetics %% fold %%
+		 - Dosage
+		 - Half-Life
+		 - Metabolism: Minimal Hepatic metabolism
+		 - Elimination: 80% Renal clearance (therefore can be dialyzed)
+	- Monitoring/Investigations
+	- Indication
+	 - Side-effects
+	 - Contraindication
+	 - Bridging %% fold %%
+		 - Cease 24h prior to low bleeding risk surgery
+		 - Cease 48-72h prior to high bleeding risk surgery
+		 - Cease up to 96h prior to surgery if renal impairment (due to minimal renal clearance of drug)
+	 - Reversal %% fold %%
+		 - Consider activated charcoal if ingested within 2 hours
+		 - [[Perioperative#^dd73f4 | Idracizumab]] 5mg IV 
+		 - Dialysis (50 - 60%)
+- Summary Table %% fold %%
+	    ![[Anticoagulants Table.png]]
+	    ![[Heparin Summary Table.png]]
+
+### Bleeding
+- - Management of peri-operative bleeding;
+	- [ ] Addresses blood volume, coagulopathy and treatment of blood loss %% fold %% 
+		- [0] My approach to perioperative bleeding is a staged approach including pre-operative, intraoperative and post-operative considerations, aimed at optimising RBC and circulating volume, correction of coagulopathy, minimising blood loss and early, definitive control of bleeding.
+		- [ ] Pre-operatively I would ensure I identify risks of coagulopathy and correct these systematically. This includes; %% fold %%
+			- [ ] With-hold the patients anticoagulation
+			- [ ] Urgent review of the patient to assess signs of coagulopathy (primary or secondary haemostasis impairment), estimate blood loss and determine the source of the bleeding
+			- [ ] Focused review of the patients PMHx to assess for undiagnosed coagulopathy (e.g. Liver Disease, Family history of coagulopathy, previous history of significant bleeds, etc.)
+			- [ ] Request Investigations (FBC, Chem20, Coags, VBG, G+H)
+				- [ ] Minimise phlebotomy (consider using paediatric tubes)
+				- [ ] Aim Hb > 70
+				- [ ] Aim Plts > 50
+			- [ ] Optimising aspects of the lethal triad (hypothermia, coagulopathy and metabolic acidosis) %% fold %%
+				- [ ] ![[Lethal Triad.png]]
+			- [ ] Local Haemostasis measures (compression)
+			- [ ] Consider the need for senior help and subspecialist involvement (e.g. haematology referral) 
+			- [ ] Early decision for definitive intervention once stable
+				- [ ] Plan and rehearse procedure to minimise blood loss
+		- [ ] Intraoperative this includes; %% fold %%
+			- [ ] Meticulous haemostasis with careful surgical technique (e.g. use of electrocautery devices and deliberate ligation of vessels)
+				- [ ] Compression (Digital pressure, packing)
+				- [ ] Cauterization (Chemical, Electrical)
+				- [ ] Topical (Adrenaline soaked gauze, Floseal, Tisseel, Algasite)
+				- [ ] Ligation (Forceps, Clips, oversew)
+				- [ ] Repair of vssel
+				- [ ] Systemic adjuncts (TXA, FFP/Plts)
+			- [ ] Use of Local anaesthetic with a vasoconstrictive component
+			- [ ] Cell salvage use
+			- [ ] Anaesthetic optimisation of cardiac output and TEG/ROTEM guided transfusion
+			- [ ] Avoiding hypothermia
+				- [ ] Bair Hugger
+				- [ ] Warmed Fluids
+				- [ ] Minimise Exposure
+				- [ ] Increase ambient temperature
+				- [ ] Continuous Temperature monitoring
+		- [ ] Post-operatively this includes; %% fold %%
+			- [ ] Rationalising chemical VTEp and recommencement of anticoagulation
+			- [ ] Avoiding hypothermia
+			- [ ] Rationalising post-operative phlebotomy
+			- [ ] Preventing infections and malnutrition
+			- [ ] Judicious use of transfusions
+	- <span style="color:#ffc000">Diathermy</span>
+		- 
+- Bleeding Risk Assessment %% fold %% 
+	- HASBLED %% fold %%
+		- Hypertension                                                    (+1)
+		- Abnormal renal/Liver function                         (+1/+1)
+			- Dialysis or Serum Cr > 200 mmol/L
+			- Bili > 2x ULN OR AST/ALT/ALP > 3x ULN
+		- Stroke                                                               (+1)
+		- Bleed (Previous significant history)                  (+1)
+		- Labile INR (<60% of time in range)                  (+1)
+		- Elderly (>65 years)                                            (+1)
+		- Drugs (Anticoags/Antiplatelet/EtOH)               (+1)
+	    ![[HASBLED Risk.png]]
+	- Procedures Risk stratification %% fold %%
+		- High Risk (>2% risk of major bleed within 30 days)
+			- Bowel resection
+			- Cancer surgery
+			- Colonic Polyp Resection
+			- ERCP
+			- PEG Placement
+			- Surgery on highly vascular organs (spleen. liver, etc)
+			- Major operation greater than 45 minutes
+		- Low/Moderate Risk (<2% risk of major bleed within 30 days)
+			- Abdominal Hernia Repair
+			- Lymph Node Biopsy
+			- Haemorrhoidal Surgery
+			- Lap Chole
+- Thrombosis Risk Assessment %% fold %% 
+	- High Risk Features (>10% annual risk of thromboembolism) %% fold %%
+		- Cardiac;
+			- Bare metal Stent < 6 weeks or Drug eluting stent < 12 months
+			- AF with CHADSVASc score of 6 or greater
+			- AF with Rheumatic Valvular Disease
+			- Mechanical Heart Valves
+				- Any Mitral
+				- Aortic caged/tilting
+				- Aortic Bileaflet with AF/CHADS
+		- Neuro;
+			- Stroke or TIA;
+				- Within 3 months if the patient has A Fib
+				- Within 6 months if the patient has a mechanical valve
+		- Haem
+			- VTE within 3 months
+			- VTE with known Severe Thrombophilia (Protein C/S or Antithrombin deficiency)
+			- APLS
+	    ![[Perioperative Thromboembolism Risk.png]]
+- Estimating Blood Loss %% fold %%
+	- Classification of haemorrhage (Love, 15, 30, 40, Game over)
+	- Class I (all normal)
+	- Class II (Tachycardic/tachynoeic with a normal systolic)
+	- Class III (Hypotension and confusion)
+	- Class IV (Decreased end-organ perfusion)
+    ![[Classification of Haemorrhage.png | 700]]
+- Reversal Agents  %% fold %% 
+	- Protamine Sulphate %% fold %% ^6fd758
+		- Dose;
+			- UFH
+				- 0.375 - 1.5 mg per 100IU (max 50mg) dependent on total amount of UFH administered within the past 2 hours
+				  ![[Protamine Sulphate Dosing UFH.png | 500]]
+			- LMWH %% fold %%
+				- 0.5 - 1mg per mg of enoxaparin
+				 ![[Protamine Sulphate Dosing LMWH.png]] ^eb6fcd
+		- Side Effects %% fold %%
+			- Hypotension, flushing, pulmonary oedema, and bradycardia occur infrequently
+			 - Anaphylaxis
+				 - Use with caution for patients who have previously received protamine, are on long term protamine insulin, have had a vasectomy, or are allergic to fish or shellfish
+		- Administer by slow intravenous injection over at least 10 minutes.
+	- Idracizumab (Praxbind) ^dd73f4
+		- Mechanism of Action: %% fold %%
+			- Monoclonal antibody that reverses anticoagulant effect of dabigatran by forming an inactive stable complex with active drug and metabolites.
+		- Adverse Effects %% fold %%
+			- Hypokalaemia, delirium, pneumonia, and fever.
+			- If hereditary fructose intolerance, parenteral administration of may cause serious adverse reactions (including death) as idarucizumab contains sorbitol;
+		- Administration %% fold %%
+			- 5 g IV (two vials each vial containing 2.5 mg in 50 mL ready-to-use solution) over 5 minutes each vial. 
+			- Dose is irrespective of dabigatran level or time since last dabigatran dose.
+	- [[Perioperative#^2e2975 | Vitamin K]] (Phytomenadione)
+
+### Blood, Transfusions and Blood Reactions
+ - Blood Products  %% fold %% 
+	 - https://derangedphysiology.com/main/cicm-primary-exam/required-reading/haematological-system/Chapter%20333/plasma-components-and-other-blood-products 
+	 - PRBC
+	 - Platelets
+	 - FFP
+	 - Cryoprecipitate
+	 - Prothrombinex
+	 - Albumin
+    ![[FFP vs Prothrombinex.png]
+- Major Transfusion Protocol (MTP) %% fold %% ^274637
+     - [0] The major transfusion protocol is a local, clinical pathway aimed at restoring volumetric and coagulopathic deficiencies of critical bleeding. The MTP is a resuscitation guideline which should run concurrently to patient care, minimising blood loss and establishing a management plan for definitive control of bleeding.
+	 - [ ]  A Lead clinician can activate a MTP in the presence of active bleeding, typically defined as;
+		 - [ ] 4U RBC in <4 hours with haemodynamic instability
+		 - [ ] Estimated blood loss > 2.5L OR
+		 - [ ] Clinical/Laboratory signs of coagulopathy
+		 - [ ] Other local indications vary but may include;
+			 - >50% of blood volume lost within 3 hours
+			 - Total blood volume replaced over 24 hours
+	- [ ]  To activate an MTP, the lead clinician must;
+		- [ ] Notify the path labs and blood bank to identify a time frame for delivery and notify if using a ROTEM/TEG based resuscitation
+		- [ ] Contact a haematologist $\pm$ retrievals
+		- [ ] Administration of adjuncts including TXA 1g IV over 10 minutes
+	- [ ] Targets of an MTP include;
+		- [ ] Optimisation of oxygenation, perfusion and cardiac function as well as addressing
+		- [ ] Hypothermia
+			- Temperature > 35$^o$C
+		- [ ]  Acidosis
+			- pH > 7.2 
+			- Base excess between -6 and +6
+			- Lactate < 4 mmol/L
+		- [ ]   Coagulopathy
+			- Platelets > 50 x $10^9$/L
+			- PT/aPTT < 1.5 x normal
+			- INR < 1.5
+			- Ionised Calcium > 1.1 mmol/L
+			- Fibrinogen > 2.5 g/L
+	- [ ] An MTP can either be ROTEM/TEG guided (in which clinicians request specific products based on test results) or or ratio guided through MTP packs.
+		- [ ] Pack 1 (2:1:1)
+			- 4 U PRBC
+			- 2 U FFP
+			- Fibcon (70mg/kg) or Cryo to maintain > 2.5g/L
+		- [ ]  Pack 2 (4:2:1)
+			- 4 U PRBC
+			- 2 U FFP
+			- 1 U Platelets
+			- Fibcon or Cryo to maintain > 2.5g/L
+			- Calcium gluconate 10% 10mL IV (if ionised calcium <1.1)
+	- [ ] Monitoring of the patients coagulopathy should occur every 30 - 60 minutes with;
+		- ABG
+		- FBC
+		- Coagulation screen
+		- Fibrinogen levels
+		- Ionised calcium
+	- The clinician should contact the lab once the MTP has been ceased to avoid unnecessary waste of blood products
+	![[MTP.png | 600]]
+- Transfusion Reactions %% fold %%  ^44679b
+	- [0] Blood transfusion is a potentially life-threatening medical emergency and I would ensure I have promptly reviewed the patient. My approach to blood transfusion reactions is dependent on if they are acute (within 24 hours), or delayed (>24 hours) and immune or non-immune mediated. In the first instance I would stop the transfusion immediately and assess the patient in accordance with the CCrISP protocol of ABCDE. I would check and monitor the patient's vital signs and establish new IV access, ensuring the old line is not flushed. I would repeat all clerical and identity checks to ensure the right pack has been given to the right patient and notify the blood bank and service provider.
+	- Acute Immune
+		- <span style="color:#ff0000">Allergic Reaction</span>
+			- Incidence
+				- 1-3% of transfusions overall
+				- 1 in 20,000 - 50,000 result in anaphylaxis
+			- Pathophysiology
+				- [[Haematology#^453d6f|Type I]] IgE mediated hypersensitivity reaction on the surface of host mast cells against a provoked antigen, which triggers the release of inflammatory mediators (e.g. histamine, tryptase and arachidonate) %% fold %% 
+					- The antigen is typically either donor plasma proteins or circulating proteins from their diet (i.e. the donor ate peanuts prior to transfusion)
+					- Therefore vast plasma transfusions are higher risk
+				- Risk factor is patients with an IgA deficiency as they have anti-IgA antibodies
+			- Onset
+				- Within seconds or minutes
+				- Can be delayed (2-3 hours) for plasma cells to be formed and produce IgE antibodies
+			- Symptoms
+				- >2/3 of the body is classified as severe
+				- Urticaria, pruritus, wheezing, fever and hypotension
+				- Anaphylactic shock
+			- Investigations
+				- [[Haematology#^f370ac |Haptoglobin]] level
+				- IgA level and antibody
+			- Management
+				- Stop the transfusion
+				- Symptomatic management (Antihistamine, corticosteroids)
+				- Recommence transfusion if the reaction subsides
+		- <span style="color:#ff0000">Acute Haemolytic Transfusion Reaction</span>
+			- Incidence
+				- 1 in 76,000 occurence
+				- 1 in 1.8 million transfusions result in a fatal acute haemolytic reaction
+			- Pathophysiology
+				- [[Haematology#^e03fd9 | Type II hypersensitivity]] reaction mediated by the recipients antibodies to the transfused blood cells glycoproteins (typically ABO incompatibility)
+				- The RBC interact with immunoglobulin and opsonins which activate the complement pathway leading to widespread inflammation and intravascular haemolysis
+			- Onset
+				- Within 24 hours of a transfusion
+			- Symptoms
+				- Fever, Hypotension, Tachycardia, Tachypnoea
+				- Haemolysis
+					- Oozing
+					- Hyperbilirubinemia/Jaundice
+					- Haemoglobinuria/Flank pain
+					- AKI
+			- Investigation
+				- Exclude DIC
+					- Coagulation profile (aPTT, PT), fibrinogen, D-Dimer
+					- Group and screen
+				- Confirm haemolysis:
+					- FBC, LDH, bilirubin, [[Haematology#^f370ac |haptoglobin]], electrolytes
+					- Blood film looking for fragmented cells
+					- Urinalysis
+				- Confirm that it is autoimmune
+					- Coombs Test: Direct Antiglobulin Test (DAT) or Indirect Antiglobulin Test (IAT),
+					- Check transfusion records and document the blood products the patient had received
+					- Repeat patient ABO grouping and antibody screen in both pre- and post-transfusion samples
+			- Management
+				- Stop the transfusion and re-crossmatch
+				- Maintain good urine output
+				- Supportive therapy with monitoring and vasopressors
+				- Maintain adequate urine output to prevent haemolytic associated renal injury (ATN)
+			- Reporting of a [[Clinical Error and Governance#^413f29|sentinel event]]
+		- <span style="color:#ff0000">Febrile Non-Haemolytic Transfusion</span>
+			- Incidence
+				- About 0.1 - 1% of transfusions
+				- Can be prevented by leukoreduction (removal of WBC from donor blood) which occurs in Australia
+			- Pathophysiology
+				- Type II hypersensitivity reaction driven by recipient antibodies against HLA-antigens on the donors WBC, which causes  the release of inflammatory mediators (e.g. cytokines) from WBC in donor blood
+				- More common in children
+			- Symptoms
+				- Being within 1-6 hours of transfusion
+				- **Fever**, chills, headache and flushing
+			- Management
+				- Stop the transfusion
+				- Exclude serious adverse events
+				- Symptomatic management (Antipyretics)
+				- Recommence transfusion is the reaction subside
+		- <span style="color:#ff0000">TRALI</span>
+			- Incidence
+				- 1 in 1,200 - 190,000 incidence
+				- Primary cause of transfusion related deaths
+			- Pathophysiology
+				- Two-hit hypothesis
+					1) Sequestration of priming of neutrophils in the pulmonary capillaries due to trauma, sepsis or shock
+					2) Antibodies in the donor blood activate the primer neutrophils which release cytokines, proteases and oxidases. This leads to increased pulmonary capillary permeability, causing fluid accumulation in the lung interstitium resulting in non-cardiogenic pulmonary oedema
+			- Symptoms
+				- Begin within minutes to 6 hours of transfusion
+				- SpO2 < 90% on RA or PaO2/FiO2 < 300
+				- Dyspnoea, tachypnoea, bilateral CXR infiltrates and no evidence of fluid overload
+				- Fever, hypotension
+			- Investigation
+				- CXR
+				- HLA-HNA antibody and typing
+			- Management
+				- Stop the transfusion
+				- Ventilatory assistance for ARDS
+				- Notify lab and Lifeblood
+	- Acute Non-Immune
+		- Non-immune haemolysis
+			- Rare
+		- <span style="color:#ff0000">Bacterial Sepsis</span>
+			- Incidence
+				- PRBC risk is [1:2,500,000](https://transfusion.com.au/adverse_transfusion_reactions/sepsis), but this is ten times higher with platelets (1:250,000), which are not refrigerated
+			- Pathophysiology
+				- The source of bacteria is generally the donor’s skin but can also be due to an underlying asymptomatic bacterial infection in the donor
+			- Symptoms
+				- Rigors, fevers, chills, hypotension, tachycardia, nausea, vomiting, dyspnoea, circulatory collapse
+				- Renal failure or DIC
+			- Investigations
+				- Blood cultures from the patient and donor blood
+			- Management
+				- Stop the transfusion immediately
+				- Commence broad-spectrum antibiotics
+				- Supportive therapy for sepsis
+				- Advise Transfusion Service Provider to notify Lifeblood to ensure quarantine and testing of related components from the same donation/donor.
+		- <span style="color:#ff0000">TACO</span>
+			- Incidence
+				- 1%
+			- Pathophysiology
+				- Increased volume into vasoconstricted venous circulation increases preload and stressors a weakened left ventricle to decompensate and cause cardiogenic respiratory failure
+			- Risk factors;
+				- LV dysfunction, existing respiratory disease
+				- Low BMI, 
+				- Chronic anaemia
+				- Renal Failure
+			- Symptoms
+				- Begins within 6 hours
+				- Respiratory distress and pulmonary oedema
+				- Hypertension, tachycardia and fluid overload signs
+			- Management
+				- Stop the transfusion
+				- Oxygen supplementation
+				- Ventilation with a higher PEEP
+				- Consider a venodilator to decrease preload (e.g. GTN)
+				- Diuretics
+	- Delayed Immune
+		- <span style="color:#ff0000">Delayed Haemolytic reaction</span>
+			- Incidence
+				- 1 in 2,500 - 11,000
+			- Pathophysiology
+				- An <span style="color:#00b050">anamnestic immune response</span> to the presence of recipient antibodies against minor antigens on the donor blood (e.g. Rhesus Factor). The antibody is present in very low titres which may not cause agglutination in a group-and-hold specimen
+					- Anamnestic means that the recipient requires prior exposure to the antigen
+				- The antibodies don't directly cause intravascular haemolysis, but rather mark the donor blood which is removed by the reticuloendothelial system as extravascular haemolysis
+			- Onset
+				- After 24 hours, but typically within 1-2 weeks
+			- Symptoms
+				- Asymptomatic
+				- Mild fever, jaundice
+			- Management
+		- <span style="color:#ff0000">Transfusion-associated GVHD</span>
+			- Pathophysiology
+				- Engraftment and proliferation of transfused donor T-lymphocytes which then destroy the recipient cells carrying HLA antigens.
+			- Incidence
+				- Rare incidence, occurring between the 4th and 40th day
+			- Symptoms
+				- Universally fatal
+				- Widespread rash, desquamation, GI mucositis, hepatitis
+		- <span style="color:#ff0000">Post-transfusion Purpura</span>
+			- Pathophysiology
+				- PTP is a sudden onset of thrombocytopenia 5-10 days following a blood or platelet transfusion
+				- The mechanism seems to be an autoantibody-mediated destruction of both the transfused platelets and the patient's own.
+			- Incidence
+				- More common in women (90% of cases) and those who have been pregnant
+			- Symptoms
+			- Management
+				- High dose IV immunoglobulin therapy, 2g/kg in divided doses over 2-5 consecutive days. Plasmapheresis is also an option.
+		- Alloimmunisation, immune modulation
+			- 1% Alloimmunisation to RBC antigens
+			- 10% alloimmunisation to HLA antigens
+	- Delayed non-Immune
+		- <span style="color:#ff0000">Iron overload</span> and haemosiderosis
+			- May occur after 20 bags of PRBC's requiring chelation, but organ dysfunction  typically occurs in the context of chronic transfusions (50 - 100 bags)
+		- <span style="color:#ff0000">Transfusion-transmitted infections</span>
+			- All less than 1 in a million (HIV, HCV, HBV, vJCD, malaria, T. pallidum)
+### Steroids %% fold %%
+- Stress Dosing;
+	- Concern is adrenal insufficiency (?adisonian crisis)
+	- 2 x normal dose of pred
+	- Hydrocort has gluco and mineralo corticoid action and 100mg is enough to saturate everything
+
+
+### Needlestick Injury %% fold %% 
+ - Universal precautions are:
+	- Prior to meeting the patient
+		- Routine environmental cleaning
+		- Handwashing according to the 5 moments (before environment contact, before and after patient contact, , before and after procedures)
+		- Use of one-time PPE including
+			- Gloves in every instance contact with blood/fluids is anticipated
+			- Gown (if anticipated splattering of fluids anticipated)
+			- Eye-protection: shield in procedures where splatter or aerosol generation seems likely (all surgical procedures)
+			- Mouth protection: mask (protect mucous membranes mouth and nose)
+		- Education around BBV and risk mitigation
+	- When with the patient
+		- No-touch techniques
+		- Sharps handling techniques
+			- Never recapping sharps or removing needles with fingers from syringes
+			- Sharps containers when passing needles / scalpels etc
+			- Disposal of sharps in secure sharps container
+	- After leaving the patient
+		- Cleaning up our environment
+		- Processing of reusable equipment (CSD)
+		- Waste management / appropriate handling of linen
+ - Patient safety, Risk assessment, Investigate, Counsel, Confidentiality (PRICC)
+	 - Patient safety: Note the patient in this case is the injured person
+		 - Ensuring that my colleague is supported
+		 - Immediate first aid to area with running water
+		 - Covering the wound with a sterile dressing
+		 - Notify the on-call occupational hazard supervisor and escort my colleague down to ED for bloods if required
+	- Risk assessment
+		- The incidence (clean vs dirty needle, gauge, depth, PPE, type of exposure - percutaneous vs mucosal)
+		- The BBV status of the patient and their demographics (e.g. gender, origin, IVDU) and the exposed demongraphics (medical history, BBV status)
+		- The nature of the injury, depth, body fluid/mucosa type Rule of 1/3's (30%, 3%, 0.3%)
+			- Rule of 3's (60%, 30%, 3%,)
+			- Hep B: 60% if viral load positive, 30% if viral load negative
+			- Hep C: 3% if percutaneous to blood, rare if mucosal to blood
+			- HIV: 0.3% percutaneous to blood, 0.1% mucosa to blood
+			![[BBV Transmission Risk.png]]
+		- HIV, HBV, HCV status of the patient needs to be determined. If this is not known then testing of the patient needs to be undertaken
+			- If the patient does not have capacity to consent for testing then the chief medical officer provides authority under the Public Health and Wellbeing act
+			- IF the patient can consent then the patient is counselled (including specific HIV pre-test counselling) then bloods are take
+	- Investigations
+		- HIV, Hep B surface antigen and Hep C antibody
+		- There is a small risk of seroconversion up to 12 months. If there is reason to suspect the source person is seroconverting to one of these viruses or is high risk then further testing should be organised
+		- 6 weeks, 3 months and 6 months follow-up
+			- 6 weeks (HIV positive, LFTs)
+			- 3 months (HIV, HBV - HBsAg, HCV - LFTs)
+			- 6 months (HIV, HBV - HBsAg, HCV - LFTs)
+	- **Confidentiality** and Counsel
+	- [0] HCWs with BBVs - should not perform exposure prone procedures (major surgery or where a person’s hands come into contact with sharp instruments inside a patient’s body) - does not include endoscopy, laparoscopy, minor surgical procedures - ensure cover from another surgeon at all times in case of complications
+		- Open Disclosure with the patient
+			- Refer for treatment if positive for BBV
+		- ID Counselling for my colleague
+			- Need for post-exposure prophylaxis and vaccination (within 7 days)
+			- Personal, Social, Professional
+				- Safe sex, not sharing implements with risk of blood contamination
+				- No blood donation, avoid pregnancy/breastfeeding
+				- Avoid exposure-prone procedures
+		- Supports
+			- Medical Helpline, GP, 
+		- Riskman
+
+### SIRS/Sepsis
+ - SIRS (Systemic Inflammatory Response Syndrome)
+	 - SIRS is defined as any two of (*HART*);
+		 - HR: >90
+		 - Abnormal WCC: >12 or <4 OR >10% bands
+		 - RR: >20 or PaCO2 <32
+		 - Temp: >38$^o$C or <36$^o$C
+	- Sepsis is defined as;
+		- Two or more SIRS criteria *plus*
+		- Confirmed or suspected source of infection
+	- Severe Sepsis is defined as;
+		- Sepsis in the presence of transient end-organ dysfunction (SBP <90 or lactate >4 mmol)
+	- Septic Shock is defined as;
+		- Severe sepsis in the presence of persistent end-organ dysfunction (SBP <90 or lactate >4 mmol)
+	 ![[SIRS, Sepsis, Shock.png|600]]
+- Management of sepsis
+	- Recognise sepsis is a life-threatening condition
+	- Review in accordance with the CCrISP protocol
+	- Early administration of IV Abx
+	- Maintain end-organ perfusion (IV Fluid)
